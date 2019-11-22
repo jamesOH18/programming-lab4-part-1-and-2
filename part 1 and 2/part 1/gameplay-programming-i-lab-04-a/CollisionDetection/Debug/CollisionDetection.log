@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\c00236511\Desktop\gameplay-programming-i-lab-04-a\CollisionDetection\Source.cpp(37,15): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\c00236511\Desktop\gameplay-programming-i-lab-04-a\CollisionDetection\Source.cpp(45,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CollisionDetection.vcxproj -> C:\Users\c00236511\Desktop\gameplay-programming-i-lab-04-a\Debug\CollisionDetection.exe
